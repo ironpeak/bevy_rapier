@@ -59,7 +59,7 @@ bevy = { version = "0.14", default-features = false, features = [
     "bevy_state",
 ] }
 approx = "0.5.1"
-glam = { version = "0.27", features = ["approx"] }
+glam = { version = "0.28", features = ["approx"] }
 
 [package.metadata.docs.rs]
 # Enable all the features when building the docs on docs.rs
